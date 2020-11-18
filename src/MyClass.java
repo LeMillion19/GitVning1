@@ -8,6 +8,6 @@ public class MyClass{
     }
 
     public void newFeature(){
-        //
+        // even more code
     }
 }
