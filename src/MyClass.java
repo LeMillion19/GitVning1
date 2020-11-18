@@ -6,4 +6,8 @@ public class MyClass{
     public void evenMoreCode(){
         //bla bla bla
     }
+
+    public void newFeature(){
+        //
+    }
 }
